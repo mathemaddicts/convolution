@@ -1,3 +1,1 @@
-# notes
-
-test
+# README

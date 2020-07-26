@@ -2,15 +2,6 @@
 
 Suppose we are given a data set $X$. What are the interesting / insightful ways of representing $X$ as functions on a metric space?
 
-$$ e = mc^2 $$
-
-$$ e=mc^2 $$
-$$ e=mc^2 \tag{} $$
-
-\begin{equation}
-E = F \cdot s 
-\end{equation}
-
 ## 1.A. Representing a data set as a function space
 
 There seem to be a few standard data-structures that might be relevant here.

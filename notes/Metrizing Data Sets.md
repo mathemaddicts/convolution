@@ -1,8 +1,9 @@
-# 1. Metrizing Data Sets
+
+# Metrizing Data Sets
 
 Suppose we are given a data set $X$. What are the interesting / insightful ways of representing $X$ as functions on a metric space?
 
-## 1.A. Representing a data set as a function space
+## Representing a data set as a function space
 
 There seem to be a few standard data-structures that might be relevant here.
 
@@ -11,7 +12,6 @@ There seem to be a few standard data-structures that might be relevant here.
 Our data is given as a finite set $S$ of points in $\mathbb{R}^n$.
 
 This seems to be the typical setting we're in, though we can generalized this by:
-
 
 ### Case 2: 
 
@@ -26,7 +26,7 @@ Case 2 seems to be how, say the data for recommender systems is given, since in 
 ### Additional cases?
 Are there other natural ways a dataset can be given that we should keep in mind here? It would be interesting to consider situations that don't lend themselves to a functional description as well as those that do.
 
-## A dual viewpoint on 1.A
+## A dual viewpoint on [Representing a data set as a function space](#representing-a-data-set-as-a-function-space)
 
 Another way of thinking of representing a data set $X\subset \mathbb{R}^n$ as a set of functions $f:Y \to \mathbb{R}^m$ is as follows. Let $\Phi:X\to (\mathbb{R}^m)^Y$ be an injection. 
 

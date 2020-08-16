@@ -2,6 +2,8 @@
 
 This repository contains notes and code related to our {convolution, geometry, data analysis, neural networks} project. 
 
+---
+
 ***Question:*** use the README for references, or put them on the wiki, or something else, or nothing?
 
 ## References
